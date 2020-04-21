@@ -28,7 +28,7 @@ In your `.bash_profile` / `.zshrc` add: `export 'EDITOR=/usr/local/bin/vim'`.
 
 ## Install
 ```sh
-git clone https://github.com/julienschmidt/vim.git ~/.vim
+git clone https://github.com/FriedCircuits/vim.git ~/.vim
 ln -s ~/.vim/vimrc ~/.vimrc
 cd ~/.vim
 git submodule update --init
